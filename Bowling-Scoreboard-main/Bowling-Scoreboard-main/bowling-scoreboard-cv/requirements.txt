@@ -1,0 +1,9 @@
+# Runtime dependencies.
+#
+# Deliberately minimal: no OCR engine and no deep-learning framework, so the
+# project installs and runs with no model downloads and no network access.
+numpy>=1.24
+opencv-python>=4.8
+
+# Development only.
+pytest>=7.4

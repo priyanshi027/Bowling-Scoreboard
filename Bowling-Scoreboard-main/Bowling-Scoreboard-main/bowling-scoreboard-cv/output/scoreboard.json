@@ -1,0 +1,799 @@
+{
+  "source": {
+    "file": "synthetic.mp4",
+    "resolution": "1280x720",
+    "fps": 25.0,
+    "frames": 100,
+    "duration_s": 4.0
+  },
+  "scoreboard": {
+    "lane": "6",
+    "bowler_up": "TARUN",
+    "players": [
+      {
+        "initial": "J",
+        "frames": [
+          {
+            "frame": 1,
+            "throws": "X",
+            "rolls": [
+              10
+            ],
+            "split": false,
+            "complete": true,
+            "frame_score": 15,
+            "running_total": 15,
+            "printed_total": 15
+          },
+          {
+            "frame": 2,
+            "throws": "5-",
+            "rolls": [
+              5,
+              0
+            ],
+            "split": false,
+            "complete": true,
+            "frame_score": 5,
+            "running_total": 20,
+            "printed_total": 20
+          },
+          {
+            "frame": 3,
+            "throws": "-7",
+            "rolls": [
+              0,
+              7
+            ],
+            "split": false,
+            "complete": true,
+            "frame_score": 7,
+            "running_total": 27,
+            "printed_total": 27
+          },
+          {
+            "frame": 4,
+            "throws": "4-",
+            "rolls": [
+              4,
+              0
+            ],
+            "split": false,
+            "complete": true,
+            "frame_score": 4,
+            "running_total": 31,
+            "printed_total": 31
+          },
+          {
+            "frame": 5,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          },
+          {
+            "frame": 6,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          },
+          {
+            "frame": 7,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          },
+          {
+            "frame": 8,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          },
+          {
+            "frame": 9,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          },
+          {
+            "frame": 10,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          }
+        ],
+        "total_settled": 31,
+        "total_shown": 31,
+        "total_printed": 31,
+        "total_agrees": true,
+        "mismatched_frames": [],
+        "repaired_frames": [],
+        "frame_agreement": 1.0
+      },
+      {
+        "initial": "V",
+        "frames": [
+          {
+            "frame": 1,
+            "throws": "8-",
+            "rolls": [
+              8,
+              0
+            ],
+            "split": false,
+            "complete": true,
+            "frame_score": 8,
+            "running_total": 8,
+            "printed_total": 8
+          },
+          {
+            "frame": 2,
+            "throws": "3-",
+            "rolls": [
+              3,
+              0
+            ],
+            "split": false,
+            "complete": true,
+            "frame_score": 3,
+            "running_total": 11,
+            "printed_total": 11
+          },
+          {
+            "frame": 3,
+            "throws": "71",
+            "rolls": [
+              7,
+              1
+            ],
+            "split": false,
+            "complete": true,
+            "frame_score": 8,
+            "running_total": 19,
+            "printed_total": 19
+          },
+          {
+            "frame": 4,
+            "throws": "8o1",
+            "rolls": [
+              8,
+              1
+            ],
+            "split": true,
+            "complete": true,
+            "frame_score": 9,
+            "running_total": 28,
+            "printed_total": 28
+          },
+          {
+            "frame": 5,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          },
+          {
+            "frame": 6,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          },
+          {
+            "frame": 7,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          },
+          {
+            "frame": 8,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          },
+          {
+            "frame": 9,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          },
+          {
+            "frame": 10,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          }
+        ],
+        "total_settled": 28,
+        "total_shown": 28,
+        "total_printed": 28,
+        "total_agrees": true,
+        "mismatched_frames": [],
+        "repaired_frames": [],
+        "frame_agreement": 1.0
+      },
+      {
+        "initial": "P",
+        "frames": [
+          {
+            "frame": 1,
+            "throws": "X",
+            "rolls": [
+              10
+            ],
+            "split": false,
+            "complete": true,
+            "frame_score": 20,
+            "running_total": 20,
+            "printed_total": 20
+          },
+          {
+            "frame": 2,
+            "throws": "4/",
+            "rolls": [
+              4,
+              6
+            ],
+            "split": false,
+            "complete": true,
+            "frame_score": 19,
+            "running_total": 39,
+            "printed_total": 39
+          },
+          {
+            "frame": 3,
+            "throws": "9-",
+            "rolls": [
+              9,
+              0
+            ],
+            "split": false,
+            "complete": true,
+            "frame_score": 9,
+            "running_total": 48,
+            "printed_total": 48
+          },
+          {
+            "frame": 4,
+            "throws": "6-",
+            "rolls": [
+              6,
+              0
+            ],
+            "split": false,
+            "complete": true,
+            "frame_score": 6,
+            "running_total": 54,
+            "printed_total": 54
+          },
+          {
+            "frame": 5,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          },
+          {
+            "frame": 6,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          },
+          {
+            "frame": 7,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          },
+          {
+            "frame": 8,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          },
+          {
+            "frame": 9,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          },
+          {
+            "frame": 10,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          }
+        ],
+        "total_settled": 54,
+        "total_shown": 54,
+        "total_printed": 54,
+        "total_agrees": true,
+        "mismatched_frames": [],
+        "repaired_frames": [],
+        "frame_agreement": 1.0
+      },
+      {
+        "initial": "T",
+        "frames": [
+          {
+            "frame": 1,
+            "throws": "61",
+            "rolls": [
+              6,
+              1
+            ],
+            "split": false,
+            "complete": true,
+            "frame_score": 7,
+            "running_total": 7,
+            "printed_total": 7
+          },
+          {
+            "frame": 2,
+            "throws": "1/",
+            "rolls": [
+              1,
+              9
+            ],
+            "split": false,
+            "complete": true,
+            "frame_score": 18,
+            "running_total": 25,
+            "printed_total": 25
+          },
+          {
+            "frame": 3,
+            "throws": "8-",
+            "rolls": [
+              8,
+              0
+            ],
+            "split": false,
+            "complete": true,
+            "frame_score": 8,
+            "running_total": 33,
+            "printed_total": 33
+          },
+          {
+            "frame": 4,
+            "throws": "3",
+            "rolls": [
+              3
+            ],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          },
+          {
+            "frame": 5,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          },
+          {
+            "frame": 6,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          },
+          {
+            "frame": 7,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          },
+          {
+            "frame": 8,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          },
+          {
+            "frame": 9,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          },
+          {
+            "frame": 10,
+            "throws": "",
+            "rolls": [],
+            "split": false,
+            "complete": false,
+            "frame_score": null,
+            "running_total": null,
+            "printed_total": null
+          }
+        ],
+        "total_settled": 33,
+        "total_shown": 36,
+        "total_printed": 36,
+        "total_agrees": true,
+        "mismatched_frames": [],
+        "repaired_frames": [],
+        "frame_agreement": 1.0
+      }
+    ]
+  },
+  "quality": {
+    "frames_sampled": 50,
+    "frames_with_scoreboard": 45,
+    "detection_rate": 0.9,
+    "frames_with_occlusion": 8,
+    "mean_glyph_confidence": 0.8617,
+    "frames_cross_checked": 15,
+    "scoring_rule_agreement": 1.0
+  },
+  "timeline": [
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p0.f1.score",
+      "from": "",
+      "to": "15"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p0.f1.throws",
+      "from": "",
+      "to": "X"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p0.f2.score",
+      "from": "",
+      "to": "20"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p0.f2.throws",
+      "from": "",
+      "to": "5-"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p0.f3.score",
+      "from": "",
+      "to": "27"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p0.f3.throws",
+      "from": "",
+      "to": "-7"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p0.f4.score",
+      "from": "",
+      "to": "31"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p0.f4.throws",
+      "from": "",
+      "to": "4-"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p0.initial",
+      "from": "",
+      "to": "J"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p0.total",
+      "from": "",
+      "to": "31"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p1.f1.score",
+      "from": "",
+      "to": "8"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p1.f1.throws",
+      "from": "",
+      "to": "8-"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p1.f2.score",
+      "from": "",
+      "to": "11"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p1.f2.throws",
+      "from": "",
+      "to": "3-"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p1.f3.score",
+      "from": "",
+      "to": "19"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p1.f3.throws",
+      "from": "",
+      "to": "71"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p1.f4.score",
+      "from": "",
+      "to": "28"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p1.f4.throws",
+      "from": "",
+      "to": "8o1"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p1.initial",
+      "from": "",
+      "to": "V"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p1.total",
+      "from": "",
+      "to": "28"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p2.f1.score",
+      "from": "",
+      "to": "20"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p2.f1.throws",
+      "from": "",
+      "to": "X"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p2.f2.score",
+      "from": "",
+      "to": "39"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p2.f2.throws",
+      "from": "",
+      "to": "4/"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p2.f3.score",
+      "from": "",
+      "to": "48"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p2.f3.throws",
+      "from": "",
+      "to": "9-"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p2.f4.score",
+      "from": "",
+      "to": "54"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p2.f4.throws",
+      "from": "",
+      "to": "6-"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p2.initial",
+      "from": "",
+      "to": "P"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p2.total",
+      "from": "",
+      "to": "54"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p3.f1.score",
+      "from": "",
+      "to": "7"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p3.f1.throws",
+      "from": "",
+      "to": "61"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p3.f2.score",
+      "from": "",
+      "to": "25"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p3.f2.throws",
+      "from": "",
+      "to": "1/"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p3.f3.score",
+      "from": "",
+      "to": "33"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p3.f3.throws",
+      "from": "",
+      "to": "8-"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p3.initial",
+      "from": "",
+      "to": "T"
+    },
+    {
+      "frame": 2,
+      "time_s": 0.08,
+      "cell": "p3.total",
+      "from": "",
+      "to": "33"
+    },
+    {
+      "frame": 42,
+      "time_s": 1.68,
+      "cell": "p3.f4.throws",
+      "from": "",
+      "to": "3"
+    },
+    {
+      "frame": 44,
+      "time_s": 1.76,
+      "cell": "p3.total",
+      "from": "33",
+      "to": "36"
+    }
+  ]
+}
