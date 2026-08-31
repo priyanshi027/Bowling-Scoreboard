@@ -1,4 +1,6 @@
-# Bowling Scoreboard Extraction from Video
+# 🎳 Bowling Scoreboard Extraction from Video
+
+> 🎥 **Top Demo Video:** [▶️ Watch the Bowling Scoreboard Extraction Demo](https://drive.google.com/file/d/1YGC-CcEg1YTtGAEk8_stnCcsFQE3Bk2I/view?usp=sharing)
 
 A classical computer vision pipeline for extracting structured ten-pin bowling scoreboard data directly from video using **OpenCV and NumPy**.
 
@@ -11,6 +13,25 @@ The system reads:
 * ⏱️ Changes in the scoreboard over time
 
 No OCR engine or neural network is used. The approach relies entirely on **classical computer vision, geometric constraints, template matching, and bowling-score verification rules**.
+
+---
+
+## 🎥 Demo Video
+
+**Watch the complete working demonstration:**
+
+👉 [▶️ Watch Bowling Scoreboard Extraction Demo](https://drive.google.com/file/d/1YGC-CcEg1YTtGAEk8_stnCcsFQE3Bk2I/view?usp=sharing)
+
+The demo demonstrates the system processing a bowling video and extracting:
+
+* 🎳 Player throws
+* 🔢 Running totals
+* 🛣️ Lane number
+* 👤 Current bowler
+* ⏱️ Scoreboard changes over time
+* ✅ Bowling-rule-based score verification
+
+> **Note:** Make sure the Google Drive video's sharing permission is set to **"Anyone with the link – Viewer"** so that recruiters and interviewers can access it.
 
 ---
 
@@ -30,9 +51,9 @@ The scoreboard is treated as a structured visual system rather than a generic te
 
 ---
 
-## 🧠 Approach
+# 🧠 Approach
 
-### Classical Computer Vision Only
+## Classical Computer Vision Only
 
 The implementation uses:
 
@@ -287,27 +308,9 @@ Glyph aspect ratio is preserved during normalisation.
 
 This is important because narrow and flat marks can become indistinguishable if every glyph is forced into the same shape.
 
-For example:
-
-```text
-Original Glyph
-
-████
-████
-████
-
-      ↓ Preserve aspect ratio
-
-████
-████
-████
-```
-
-Instead of unnecessarily stretching it into a square representation.
-
 ---
 
-## 🎯 Confidence
+# 🎯 Confidence
 
 Classification confidence is based on the **margin between the best and second-best matches**.
 
